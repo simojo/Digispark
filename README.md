@@ -1,6 +1,6 @@
-# Custom Scripts for Arduino Digispark Models A/B
+# Custom Scripts for Digistump Arduino Digispark Models A/B
 
-![alt text](https://cdn.instructables.com/FIR/II8K/HH2VFRMV/FIRII8KHH2VFRMV.LARGE.jpg?auto=webp&frame=1&height=300 "digispark schema")
+![digispark schema](http://www.qsun.me/images/lilytiny/digispark.png)
 
 See [this website](https://digistump.com/wiki/digispark/tutorials/connecting) for install info.  
 
